@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Great White Sharks</title>
+</head>
+<body>
+<h1>Description</h1>
+	<p>Great White Sharks are a species of large mackerel shark which can be found in the coastal surface waters of all the major oceans</p>
+<h2> Weight </h2>
+	<p>The weight of these animals are 1,905 kg (4,200 lb)
+<h3> Size </h3>
+	<p>The females are much larger at 6.1 m (20 ft) while the smaller males are 3.4 to 4.0 m (11 to 13 ft)
+<h4> Color </h4>
+	<p> The color of the sharks are normally grey with their underside being white </p>
+<h5> Image of a Great White Shark </h5>
+	<p>
+		<img src="https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pictures/2015/5/27/1432747084178/The-classic-poster-image--009.jpg?width=300&quality=85&auto=format&fit=max&s=2d13f641e8be4a084d277e3ec5edb886">
+	</p>
+</body>
+</html>
